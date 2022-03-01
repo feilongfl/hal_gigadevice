@@ -39,6 +39,7 @@ OF SUCH DAMAGE.
 
 #include "gd32e10x_rcu.h"
 #include "gd32e10x_adc.h"
+#include "gd32e10x_can.h"
 #include "gd32e10x_crc.h"
 #include "gd32e10x_ctc.h"
 #include "gd32e10x_dac.h"
